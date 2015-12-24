@@ -6,7 +6,7 @@ Buffer class is a global class and can be accessed in application without import
 Following is a reference of Buffers module available in Node.js. For a further detail you can refer to official documentation.
 
 # SN  Method & Description
-1. new Buffer(size) 
+1. ```javascript new Buffer(size)```
 Allocates a new buffer of size octets. Note, size must be no more than kMaxLength. Otherwise, a RangeError will be thrown here.
 
 2. new Buffer(buffer) 
