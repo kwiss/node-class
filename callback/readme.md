@@ -1,4 +1,4 @@
-** What is Callback?
+# What is Callback?
 
 Callback is an asynchronous equivalent for a function. A callback function is called at the completion of a given task. Node makes heavy use of callbacks. All APIs of Node are written is such a way that they supports callbacks.
 
